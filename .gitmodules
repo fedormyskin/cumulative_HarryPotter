@@ -1,0 +1,3 @@
+[submodule "linked-potter"]
+	path = linked-potter
+	url = git@github.com:fedormyskin/Linked-Potter.git
