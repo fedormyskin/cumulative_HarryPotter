@@ -1,10 +1,10 @@
 # Cumulative Harry Potter fanfiction on AO3
 
-Code for the paper [https://osf.io/4wjnm/](Cultural accumulation and improvement in online fan fiction)
+Code for the paper [Cultural accumulation and improvement in online fan fiction](https://osf.io/4wjnm/)
 presented at the CHR2020 workshop.
 
 The folder [data/](data) contains the Rdata file that we used. The CSV format
-is hosted on an [https://osf.io/frm5n/](external repository), due to GitHub file size limit.
+is hosted on an [external repository](https://osf.io/frm5n/), due to GitHub file size limit.
 
 This repository contains a submodule [\linked-potter](linked-potter), if you clone
 it you need to load the submodule content, too. This is not automatically done 
