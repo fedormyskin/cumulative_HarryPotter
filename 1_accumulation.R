@@ -5,9 +5,8 @@ library(reshape2)
 library(RColorBrewer)
 
 # We use here the tidy version (saved as RData object to save space)
-# created with the script tidy_up_corpus.R. In the script tidy_up_corpus.R 
-# the function read_and_clean() also exclude stories 
-# with less than 10 words, and stories published in AO3 in the year 2020
+# While cleaning the dataset we excluded stories with less than 10 words,
+# and stories published in AO3 in the year 2020
 load("data/dataset_HP_AO3.RData")
 
 # check languages - 90% is English
