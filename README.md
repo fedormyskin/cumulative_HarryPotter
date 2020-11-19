@@ -1,6 +1,6 @@
 # Cumulative Harry Potter fanfiction on AO3
 
-Code for the paper [Cultural accumulation and improvement in online fan fiction](https://osf.io/4wjnm/)
+Code for the paper [Cultural accumulation and improvement in online fan fiction](Pianzola_Acerbi_Rebora_2020.pdf)
 presented at the CHR2020 workshop.
 
 The folder [/data](data) contains the Rdata file that we used. The CSV format
